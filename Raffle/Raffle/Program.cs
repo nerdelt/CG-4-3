@@ -6,6 +6,7 @@ namespace Raffle
     {
         static void Main(string[] args)
         {
+
             //tells user rules of raffle and asks for input
             Console.WriteLine("We are having a raffle. You can enter up to 30 contestants to choose from.");
             Console.WriteLine("Please press ENTER after each name. Once you are out of names, you can just press ENTER.");
@@ -28,7 +29,7 @@ namespace Raffle
 
                 // picked a winner from the random, then writes who winner is 
 
-                int winner = namesPicker.Next(0, namesInput[n].Length);
+                int winner = namesPicker.Next(n);
 
                 // this is so the if line will work later....
                 string w = Convert.ToString(namesInput[winner]);
@@ -55,12 +56,6 @@ namespace Raffle
         }
     }
 }
-
-
-
-
-
-          
-       
+        
     
 

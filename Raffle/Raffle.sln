@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raffle", "Raffle\Raffle.csproj", "{4998C677-82DB-42B4-8824-5EE3145AD290}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raffle", "Raffle\Raffle.csproj", "{B2DF4EB6-E1D4-4265-B5A1-8F857ABD4A51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4998C677-82DB-42B4-8824-5EE3145AD290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4998C677-82DB-42B4-8824-5EE3145AD290}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4998C677-82DB-42B4-8824-5EE3145AD290}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4998C677-82DB-42B4-8824-5EE3145AD290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2DF4EB6-E1D4-4265-B5A1-8F857ABD4A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DF4EB6-E1D4-4265-B5A1-8F857ABD4A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DF4EB6-E1D4-4265-B5A1-8F857ABD4A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DF4EB6-E1D4-4265-B5A1-8F857ABD4A51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7107CBB8-C07F-4B5F-A7DA-70829349FB1E}
+		SolutionGuid = {4E2299BC-60D9-4D24-BB7E-EEA02C736620}
 	EndGlobalSection
 EndGlobal
